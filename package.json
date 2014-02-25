@@ -1,0 +1,31 @@
+{
+  "name": "vos-api",
+  "version": "0.0.1",
+  "description": "vaultofsatoshi.com API client for node.js",
+  "keywords": [
+    "btc",
+    "bitcoin",
+    "crypsty"
+  ],
+  "author": "Kyle Smyth (https://github.com/puttputt)",
+  "contributors": [
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "querystring": ">=0.2.0",
+    "request": ">=2.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puttputt/npm-vos-api"
+  },
+  "main": "cryptsy.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/puttputt/npm-vos-api/issues",
+    "email": "kylesmyth@gmail.com"
+  },
+  "readmeFilename": "README.md"
+}
